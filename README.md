@@ -113,11 +113,10 @@ This project implements a rule-driven AI agent that:
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Note
 
 All data used in this project is anonymized and created for demonstration purposes only.  
-No real client or company data is used.
-
+No real client or company data is included.
 ---
 
 ## 💬 Summary
